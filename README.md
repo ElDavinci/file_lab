@@ -1,6 +1,8 @@
 ## Getting Started
 
 lab3 cpcs 203 <br>
+description: <br>
+
 Create a java application called FileIOExample. The application should read all required information from two
 input files file1.txt and file2.txt, concatenate the information, and write the output to a single output file file1-
 file2.txt. The first file (file1.txt) contains a list of First names, and the second file (file2.txt) contains a list of Last
